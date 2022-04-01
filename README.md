@@ -14,7 +14,7 @@ https://github.com/AozakiAok0
 
 
 
-<img src='Mine.jpeg'>
+<img src='Mine.jpg'>
 
 
 > 引用
